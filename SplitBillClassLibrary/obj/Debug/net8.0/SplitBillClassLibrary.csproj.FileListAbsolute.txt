@@ -1,0 +1,11 @@
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\bin\Debug\net8.0\SplitBillClassLibrary.deps.json
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\bin\Debug\net8.0\SplitBillClassLibrary.dll
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\bin\Debug\net8.0\SplitBillClassLibrary.pdb
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\SplitBillClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\SplitBillClassLibrary.AssemblyInfoInputs.cache
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\SplitBillClassLibrary.AssemblyInfo.cs
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\SplitBillClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\SplitBillClassLibrary.dll
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\refint\SplitBillClassLibrary.dll
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\SplitBillClassLibrary.pdb
+C:\Users\sprve\Desktop\Projects\Modular Development\SplitBill\SplitBillClassLibrary\obj\Debug\net8.0\ref\SplitBillClassLibrary.dll
